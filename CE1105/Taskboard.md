@@ -1,6 +1,6 @@
 ---
-Fecha de creación: <% tp.date.now("YYYY-MM-DD HH:mm") %>
-Fecha de Modificación: <% tp.date.now("YYYY-MM-DD HH:mm") %>
+Fecha de creación: 2025-08-12 16:53
+Fecha de Modificación: 2025-08-12 17:20
 tags: 
 Tema:
 ---
