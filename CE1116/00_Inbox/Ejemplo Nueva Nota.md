@@ -19,7 +19,7 @@ Topic:
 - {elementos puntuales que deseo recordar que pueden estar o no en la definición y que deseo que sean muy visibles para recordarlos fácilmente}
 
 ## 🔗 Connections
-- [[ Scrum]]
+- [[Boveda-de-Conocimiento/CE1116/01_Procesos de Desarrollo/Scrum]]
 {Aquí se agregan los links a otras notas relacionadas. Solamente ponga \[\[ Nombre de nota \]\] sin los "\"}
 ## 💡 Personal Insight (Opcional)
 - {reflexiones personales sobre el concepto que desean capturar, ideas que quieran explorar después o potenciales usos}
