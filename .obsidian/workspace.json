@@ -30,9 +30,21 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "448839a158059f86",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,8 +193,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1604bcbd5c3ab382",
+  "active": "84d3235176a5ae4b",
   "lastOpenFiles": [
+    "Tarea5/Acoplamiento en desarrollo de software.md",
+    "Tarea5/Cohesión en desarrollo de software.md",
+    "Tarea5/Arquitectura Microkernel.md",
+    "Tarea5/Broker en arquitecturas Event Driven.md",
+    "Tarea5/Arquitectura Orientada a Eventos.md",
+    "Tarea5/Arquitectura en Capas.md",
+    "Tarea5",
     "Tarea3/Trade off en el diseño y arquitectura de software.md",
     "Tarea3/Throughput.md",
     "Tarea3/Latencia.md",
@@ -205,12 +224,6 @@
     "Tarea1/Atomic Template 1.md",
     "CE1105/Definition of Done (DoD).md",
     "CE1105/Sprint Backlog.md",
-    "CE1105/Requerimientos de Negocio.md",
-    "CE1105/Product Owner.md",
-    "CE1105/Planning Poker.md",
-    "CE1116/00_Inbox/Ejemplo Nueva Nota.md",
-    "CE1116/08_Templates/Atomic Template.md",
-    "CE1116/01_Procesos de Desarrollo/Scrum.md",
     "Tarea1",
     "Untitled.canvas",
     "CE1116/08_Templates",
@@ -218,7 +231,6 @@
     "CE1116/07_Mantenimiento",
     "06_Maintenance",
     "CE1116/06_Despliegue e Infrastructura",
-    "CE1116/05_Pruebas",
-    "CE1116/04_Implementación"
+    "CE1116/05_Pruebas"
   ]
 }
